@@ -1,0 +1,30 @@
+cơ thể {
+    màu nền :  # 0c0c27 ;
+    phần đệm :  45 px ;
+    màu :  rgb ( 165 ,  223 ,  58 );
+}
+. tr1 {
+    bán kính đường viền :  120 px ;
+
+}
+h3 {
+    họ phông chữ :  'Gloock' , serif;
+    lề :  10 px  0  8 px  0 ;
+}
+. nút {
+    màu nền  :  trắng ;
+    lề dưới : 20px;
+    đường viền : 0;
+    chiều rộng : 300px;
+    phần đệm : 15px 0 15px 0;
+    bán kính đường viền : 100px;
+    font-family :  'Pacifico' ,  chữ thảo ;
+    cỡ chữ : 15px;
+    thời lượng chuyển tiếp : 0,3 giây;
+    thuộc tính chuyển đổi :  màu sắc , màu nền ;
+
+}
+. nút : di chuột {
+    màu sắc : đỏ;
+    màu nền : xanh lam;
+}
